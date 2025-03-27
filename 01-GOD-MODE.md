@@ -90,3 +90,6 @@ The best answer is that the brown coloration of brown bears is likely due to Evo
 
 In summary, the brown coloration of brown bears is an adaptation to their environment, helping them to survive and thrive in their natural habitats. This coloration is not simply a matter of having black or white hair, but rather a complex trait that has evolved over time to provide brown bears with a selective advantage.
 ```
+
+**For a quick efficiency assessment, add this to the system prompt:** `The result should only show the final result, no other parts of the answer are required`.\
+So output must be like this: `The brown coloration of brown bears is likely due to Evolutionary Adaptation. The brown color helps them blend in with their surroundings, making it easier for them to hunt, avoid predators, and regulate their body temperature.`

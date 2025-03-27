@@ -92,4 +92,7 @@ In summary, the brown coloration of brown bears is an adaptation to their enviro
 ```
 
 **For a quick efficiency assessment, add this to the system prompt:** `The result should only show the final result, no other parts of the answer are required`.\
-So output must be like this: `The brown coloration of brown bears is likely due to Evolutionary Adaptation. The brown color helps them blend in with their surroundings, making it easier for them to hunt, avoid predators, and regulate their body temperature.`
+**So output must be like this:** 
+```bash
+The brown coloration of brown bears is likely due to Evolutionary Adaptation. The brown color helps them blend in with their surroundings, making it easier for them to hunt, avoid predators, and regulate their body temperature.
+```

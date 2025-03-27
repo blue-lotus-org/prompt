@@ -2,7 +2,7 @@ We made a SYSTEM PROMPT that defeat all reasoning/thinking models in cost/time/r
 Share with you for free and for fun: 🍷🍷🍷 cheer 🤣\
 Use following prompt:
 
-================================================================================================
+=====================================================================================
 
 
 **AI System Prompt:**

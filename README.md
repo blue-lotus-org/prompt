@@ -4,7 +4,7 @@
 
 # prompt
 collection of intresting SYSTEM PROMPT
-| GOAL | URL |
-|---|---|
-| Post Thinking/Reasoning | [god mode](./01-GOD-MODE.md) |
-| Agent web app builder | [agent app builder](./02-MITICOMON-AI-AGENT.md) |
+| GOAL | URL | TEST |
+|---|---|---|
+| Post Thinking/Reasoning | [god mode](./01-GOD-MODE.md) | Mistral, Gemini, Meta-Llama |
+| Agent web app builder | [agent app builder](./02-MITICOMON-AI-AGENT.md) | Mistral, Gemini, Meta-Llama |
